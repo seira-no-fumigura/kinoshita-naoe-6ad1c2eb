@@ -1,0 +1,515 @@
+{
+ "work": "木下尚江著作集第1巻",
+ "work_id": "kinoshita-naoe-6ad1c2eb",
+ "repo": "undefined/kinoshita-naoe-6ad1c2eb",
+ "author": "木下尚江",
+ "yomi": "",
+ "category": "思想・評論",
+ "kind": "prose",
+ "description": {
+  "kind": "思想・評論",
+  "era": "",
+  "author": "木下尚江",
+  "desc": "木下尚江。木下尚江著作集第1巻（明治文献、1972）に収められた作品のうち、青空文庫に本文がある 2 篇を集めたもの（この本の全体ではない）。"
+ },
+ "editions": [
+  {
+   "pid": "aozora",
+   "title": "木下尚江著作集第1巻",
+   "editor": "",
+   "series": "",
+   "publisher": "明治文献",
+   "year": 1972,
+   "pages": "",
+   "url": "https://www.aozora.gr.jp/cards/000525/card43025.html",
+   "label": "青空文庫",
+   "note": "青空文庫のテキスト（入力: 林幸雄、校正: 小林繁雄）による"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "本文はパブリックドメイン。大意と注は CC BY 4.0"
+ },
+ "poems": [],
+ "translation": null,
+ "base": "青空文庫のテキスト（入力: 林幸雄、校正: 小林繁雄）を底本とした。青空文庫の底本は『木下尚江著作集第1巻』（明治文献、1972）。行分けは青空文庫のまま。",
+ "gyo": true,
+ "blocks": [
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000001",
+   "pid": "",
+   "pages": [],
+   "no": 1,
+   "vol": "佐野だより",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（二月十五日夜發）",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000002",
+   "pid": "",
+   "pages": [],
+   "no": 2,
+   "vol": "佐野だより",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昨夕俄かに「足尾鑛毒問題」解釋の重任を負ひぬ、工業國たるべき日本に於て斯かる疑問の何時までも氷解せざるを見て、余はかねてより我が國運の障碍と思ひければ、敢へて之を承諾したりしなり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000003",
+   "pid": "",
+   "pages": [],
+   "no": 3,
+   "vol": "佐野だより",
+   "kotobagaki": "",
+   "author": "",
+   "text": "兎に角先づ今回の被害地人民出京紛擾の情况を一瞥せばやと思ひければ、吹上停車場より腕車を舘林に驅ることゝはなしぬ、タマに出る子は風に逢ふとかや、我が指して行く日光、足尾の雪山颪は土沙を捲きて壯丁二個も挽きぞワズろふばかりなり、顧れば淺間の山は雪の白衣を被りて蒼黒なる上州群峯の上に半腹以上を現はしつ、飛びかふ雲に見へつ隱れつするイト面白ろし、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "驅",
+     "r": "か"
+    }
+   ]
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000004",
+   "pid": "",
+   "pages": [],
+   "no": 4,
+   "vol": "佐野だより",
+   "kotobagaki": "",
+   "author": "",
+   "text": "利根の舟橋打ち渡ればコヽなん被害地人民と憲兵巡査との間に開かれたる最近の古戰場なり、抑も彼等被害人民が今回の上京騷ぎは昨秋來の計畫にして、新年に入りて漸く熟し二月となりては形勢次第に切迫し遂に去十二日の夜、渡瀬沿岸なる早川田の雲龍寺に撞き鳴らす警鐘を合圖に簔笠、糧を包みて集會せるもの二百、三百忽にして五百、警官の制止を峻拒して舘林の町を打ち過ぎ利根の渡に押し寄せたる者二千五百と注せられぬ、川舟二艘を大八車に打ち載せ舟の前に斜めに切りたる青竹數竿を鉾の如くに裝ひたるを挽き、同勢之に從ひ、野州安蘇郡界村の助役野口春藏と言へるは筒袖に韮山笠を戴き南無阿彌陀佛と書きたる白旗採つて馬上に指揮せり、若し警官の之を制止せんとするに逢へば、かの竹鉾を裝置せる舟車を以て突貫して進みたり、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "渡瀬",
+     "r": "わたらせ"
+    },
+    {
+     "a": "早川田",
+     "r": "さかはた"
+    }
+   ]
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000005",
+   "pid": "",
+   "pages": [],
+   "no": 5,
+   "vol": "佐野だより",
+   "kotobagaki": "",
+   "author": "",
+   "text": "之を防がんとて利根の川邊に集りたるは憲兵二十警官二百五十餘名、埼玉あたりより應援せるも少なからず、今は止むを得ず捕縛すべしとの一令を發して打ち向ふと共に群集は遂に解散せり、捕縛せられたる者二十四名、負傷したるは彼方にも此方にもありしと云ふ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000006",
+   "pid": "",
+   "pages": [],
+   "no": 6,
+   "vol": "佐野だより",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さて此の擧にあづかれる被害地人民とは上州に在りては邑樂郡の多々良、渡瀬、大島、西谷田、海老瀬、郷谷、大毛野の諸村、野州に在りては足利郡の毛野、吾妻、久野、安蘇郡の植野、犬伏、界、高山、下都賀郡の谷中の諸村、又た埼玉縣下にては北埼玉郡なる利島、川邊の諸村なりとぞ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "邑樂",
+     "r": "おうら"
+    },
+    {
+     "a": "郷谷",
+     "r": "さとや"
+    },
+    {
+     "a": "安蘇",
+     "r": "あそ"
+    }
+   ]
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000007",
+   "pid": "",
+   "pages": [],
+   "no": 7,
+   "vol": "佐野だより",
+   "kotobagaki": "",
+   "author": "",
+   "text": "路傍の電柱、道標などに、「足尾鑛毒被害民上京」「慘死千何百名」など白墨もて書きたるは、一昨日の紀念ならん、一同は去十三日の午後一時頃を以て解散しつ、捕縛されたる廿四名は今朝までに皆な前橋地方裁判所へ押送されぬ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000008",
+   "pid": "",
+   "pages": [],
+   "no": 8,
+   "vol": "佐野だより",
+   "kotobagaki": "",
+   "author": "",
+   "text": "余は道すがら被害地の概况を看つ、渡瀬の板橋を越へ、左手なる田中の一林中に彼の雲龍寺の堂棟を眺め、仰で遙かに足尾の高根を望み、湧き出づる萬感の間に一道の理會を試みつゝ急ぎぬ、思ひの外に道ひま取りければ佐野に今夜の宿は求めぬ、是れ一つには「鉢の木」の徃事をしのばんが爲めに、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "渡瀬",
+     "r": "わたらせ"
+    },
+    {
+     "a": "左手",
+     "r": "ゆんで"
+    }
+   ]
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000009",
+   "pid": "",
+   "pages": [],
+   "no": 9,
+   "vol": "佐野だより",
+   "kotobagaki": "",
+   "author": "",
+   "text": "余は所謂被害地區域に入りてより大に得る所あるが如く感ず、若し夫れ足尾の峯を攀ぢ渡瀬の流を下るの後は髣髴として「足尾鑛毒問題」なる一個の面影を描くに庶幾からんか、（二月十五日夜佐野町にて木下生）",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "渡瀬",
+     "r": "わたらせ"
+    },
+    {
+     "a": "庶幾",
+     "r": "ちか"
+    }
+   ]
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000010",
+   "pid": "",
+   "pages": [],
+   "no": 10,
+   "vol": "佐野だより",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（明治三十三年二月十七日　毎日新聞第八八二一號）",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000011",
+   "pid": "",
+   "pages": [],
+   "no": 11,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "十八日發　　　樹蔭生",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000012",
+   "pid": "",
+   "pages": [],
+   "no": 12,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "十六日夜は渡良瀬河畔に父老と語り明かしつ、明けの日も爲めにいたく時をうつしぬ、堤上の茂竹枯れて春は來ぬれど鶯も鳴かずなど訴ふるを聽て",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000013",
+   "pid": "",
+   "pages": [],
+   "no": 13,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鶯も鳴かずなりぬる里人は",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000014",
+   "pid": "",
+   "pages": [],
+   "no": 14,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なにをしるしに春は知るらん",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000015",
+   "pid": "",
+   "pages": [],
+   "no": 15,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "佐野の停車場に滊車を待ちぬるに山風に雪の降り來ぬれば",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000016",
+   "pid": "",
+   "pages": [],
+   "no": 16,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "袖さへに拂はでむかし忍ぶかな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000017",
+   "pid": "",
+   "pages": [],
+   "no": 17,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "佐野のわたりの雪の夕暮",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000018",
+   "pid": "",
+   "pages": [],
+   "no": 18,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "覺束な、明日入る路や絶へぬらん",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000019",
+   "pid": "",
+   "pages": [],
+   "no": 19,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "足尾の山はみ雪降るなり",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000020",
+   "pid": "",
+   "pages": [],
+   "no": 20,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "十七日、日光に泊りぬ、奧羽地方より雪ふみ分けて來ぬる參詣の旅客にて賑はし、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000021",
+   "pid": "",
+   "pages": [],
+   "no": 21,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今朝起き出でぬれば雪積もること三尺、美觀言はん方なし",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000022",
+   "pid": "",
+   "pages": [],
+   "no": 22,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "まれに來し人の爲めとや山姫は",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000023",
+   "pid": "",
+   "pages": [],
+   "no": 23,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雪の白綾かつぎしぬらん",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000024",
+   "pid": "",
+   "pages": [],
+   "no": 24,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "去れど心さす方のある身には如何ばかり苦しかるらん、今も尚ほ繽紛として止まんともせず、せめては雪のはるゝを待ちて登山せん",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose",
+   "ruby": [
+    {
+     "a": "繽紛",
+     "r": "ひんぷん"
+    }
+   ]
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000025",
+   "pid": "",
+   "pages": [],
+   "no": 25,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "行方さへあはれ何れとしら雪の",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000026",
+   "pid": "",
+   "pages": [],
+   "no": 26,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あまきる空をながめぬるかな",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000027",
+   "pid": "",
+   "pages": [],
+   "no": 27,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "華氏五十三度されど雪後の寒さこそ思ひやらるれ、",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  },
+  {
+   "id": "kinoshita-naoe-6ad1c2eb-000028",
+   "pid": "",
+   "pages": [],
+   "no": 28,
+   "vol": "雪中の日光より",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（明治三十三年二月二十二日　毎日新聞第八八二六號）",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": [],
+   "form": "prose"
+  }
+ ]
+}
